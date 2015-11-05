@@ -1,6 +1,7 @@
 # Line-Counter
 Counts the number of lines in files
 
+Requires Python 2.X
 
 A directory and list of files extensions is passed in. It traverses
 through the directory, opens the files with the specified file
